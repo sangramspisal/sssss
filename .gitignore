@@ -1,13 +1,12 @@
 # Eclipse Related
-#/bin/
 
-#.classpath
-#.project
-#.settings/
+/bin/
+.classpath
+.project
+.settings/
 
 #IntelliJ
-#*.iml
-#.idea/
-#out/
-
+*.iml
+.idea/
+out/
 
