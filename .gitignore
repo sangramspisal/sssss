@@ -6,8 +6,8 @@
 .settings/
 
 #IntelliJ
-*.iml
-.idea/
-out/
+#*.iml
+#.idea/
+#out/
 
 
